@@ -7,7 +7,7 @@ class MyTheme {
       splashColor: Colors.transparent,
       highlightColor: Colors.transparent,
       hoverColor: Colors.transparent,
-      fontFamily: GoogleFonts.roboto().fontFamily,
+      fontFamily: GoogleFonts.poppins().fontFamily,
       cardColor: Colors.white,
       canvasColor: lightback,
       appBarTheme: AppBarTheme(
